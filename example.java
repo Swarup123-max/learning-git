@@ -5,6 +5,6 @@ public class example{
 } 
 class waste{
     static void timepass(){
-        System.out.println("bye world");
+        System.out.println("bye");
     }
 }

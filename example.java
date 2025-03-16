@@ -7,4 +7,7 @@ class waste{
     static void timepass(){
         System.out.println("bye");
     }
+    for(int i = 0;i<10;i++){
+        System.out.println("hello")
+    }
 }
